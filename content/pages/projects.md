@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 09de868b-e56b-87a8-b829-b94ecac5201d
 ---
@@ -75,7 +78,7 @@ Ammonia Stripping ([PDF]({{< baseurl >}}/resources/group_1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-IGCC As a Way to Control Hg, NOx, and SOx ([PDF]({{< baseurl >}}/resources/group_2))
+IGCC As a Way to Control Hg, NO{{< sub "x" >}}, and SO{{< sub "x" >}} ([PDF]({{< baseurl >}}/resources/group_2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +105,7 @@ Amine Stripping ([PDF]({{< baseurl >}}/resources/group_4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Retrofitting Options for CO2 Capture ([PDF]({{< baseurl >}}/resources/group_5))
+Retrofitting Options for CO{{< sub "2" >}} Capture ([PDF]({{< baseurl >}}/resources/group_5))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +123,7 @@ Chemical Looping Combustion ([PDF]({{< baseurl >}}/resources/group_6))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-CO2 Liquefaction ([PDF]({{< baseurl >}}/resources/group_7))
+CO{{< sub "2" >}} Liquefaction ([PDF]({{< baseurl >}}/resources/group_7))
 {{< tdclose >}}
 
 {{< trclose >}}

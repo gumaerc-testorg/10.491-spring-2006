@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Memorandum on a student project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-491-integrated-chemical-engineering-ii-spring-2006/429822215a8d46613af3234ba409f0ec_group_1.pdf
+file: /media/courses/10-491-integrated-chemical-engineering-ii-spring-2006/429822215a8d46613af3234ba409f0ec_group_1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: group_1.pdf
 uid: 42982221-5a8d-4661-3af3-234ba409f0ec

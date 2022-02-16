@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Design project topic and memo.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-491-integrated-chemical-engineering-ii-spring-2006/c57818f1716d3b53ea5729d241031f8c_group_8.pdf
+file: /media/courses/10-491-integrated-chemical-engineering-ii-spring-2006/c57818f1716d3b53ea5729d241031f8c_group_8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: group_8.pdf
 uid: c57818f1-716d-3b53-ea57-29d241031f8c
