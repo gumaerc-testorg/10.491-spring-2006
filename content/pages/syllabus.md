@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section contains course description, prerequisites, homework,
+  final report, and presentation, policy for academic conduct, grading policy, and
+  calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -57,7 +60,7 @@ During the final semester of senior year you may be involved in job interviews, 
 Grading Policy
 --------------
 
-The course grade is based on 200 points. Description of the activities can be found in [assignments]({{< baseurl >}}/pages/assignments) and [projects]({{< baseurl >}}/pages/projects).
+The course grade is based on 200 points. Description of the activities can be found in {{% resource_link 0644fc46-b4cd-6571-1446-cd50abd06cf5 "assignments" %}} and {{% resource_link 09de868b-e56b-87a8-b829-b94ecac5201d "projects" %}}.
 
 The Design Report grade will be the same for all the group members. **No late reports will be accepted**. The design report grade includes the presentations to class and clients (30 minutes per group).
 
