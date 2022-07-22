@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: The readings section contains background reference materials, process
+  design text books, product design, process and engineering economics, process technology
+  descriptions and handbooks, and problem solving strategies.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 8f66f4af-2326-c369-7180-ea38ca9a7023
 ---

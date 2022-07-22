@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The assignments section contains problem sets for the course, and some
+  caveats.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 0644fc46-b4cd-6571-1446-cd50abd06cf5
 ---
@@ -27,7 +32,7 @@ TOPICS
 Problem Set 1
 {{< tdclose >}}
 {{< tdopen >}}
-Order of Magnitude Estimation; Energy to Generate Electricity and to Separate CO2 from a Gas Stream; A First Order Model of a Power Plant ([PDF]({{< baseurl >}}/resources/problem_set_01))
+Order of Magnitude Estimation; Energy to Generate Electricity and to Separate CO{{< sub "2" >}} from a Gas Stream; A First Order Model of a Power Plant ({{% resource_link fd11e32d-47cb-59af-243a-0be5efd3a25c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

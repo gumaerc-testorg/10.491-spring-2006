@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The projects section contains projects files for the course.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 09de868b-e56b-87a8-b829-b94ecac5201d
 ---
@@ -22,7 +26,7 @@ The grade will be the same for all the group members.
 
 No late reports will be accepted.
 
-Read carefully the _Design Report Handout_ ([PDF]({{< baseurl >}}/resources/report_details))
+Read carefully the _Design Report Handout_ ({{% resource_link 79a208e0-e255-5e64-435c-86fafb530fdc "PDF" %}})
 
 Presentation Guidelines
 -----------------------
@@ -66,7 +70,7 @@ DESIGN PROBLEMS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Ammonia Stripping ([PDF]({{< baseurl >}}/resources/group_1))
+Ammonia Stripping ({{% resource_link 42982221-5a8d-4661-3af3-234ba409f0ec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +79,7 @@ Ammonia Stripping ([PDF]({{< baseurl >}}/resources/group_1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-IGCC As a Way to Control Hg, NOx, and SOx ([PDF]({{< baseurl >}}/resources/group_2))
+IGCC As a Way to Control Hg, NO{{< sub "x" >}}, and SO{{< sub "x" >}} ({{% resource_link 1b2eca8a-14e2-354e-c12d-4f41a06eb8df "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +88,7 @@ IGCC As a Way to Control Hg, NOx, and SOx ([PDF]({{< baseurl >}}/resources/group
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Assessment of the IGCC Concept ([PDF]({{< baseurl >}}/resources/group_3))
+Assessment of the IGCC Concept ({{% resource_link 78d7999f-da4a-c19e-fb1f-c23f8bbee42d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +97,7 @@ Assessment of the IGCC Concept ([PDF]({{< baseurl >}}/resources/group_3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Amine Stripping ([PDF]({{< baseurl >}}/resources/group_4))
+Amine Stripping ({{% resource_link f1282427-bd51-8a81-1c64-f4cf1dd5f430 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +106,7 @@ Amine Stripping ([PDF]({{< baseurl >}}/resources/group_4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Retrofitting Options for CO2 Capture ([PDF]({{< baseurl >}}/resources/group_5))
+Retrofitting Options for CO{{< sub "2" >}} Capture ({{% resource_link d9075a75-15e5-ce91-674b-1ee5a3b9046c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +115,7 @@ Retrofitting Options for CO2 Capture ([PDF]({{< baseurl >}}/resources/group_5))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Chemical Looping Combustion ([PDF]({{< baseurl >}}/resources/group_6))
+Chemical Looping Combustion ({{% resource_link c932e11e-bae3-23f7-9681-ab38a2f2f9e0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +124,7 @@ Chemical Looping Combustion ([PDF]({{< baseurl >}}/resources/group_6))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-CO2 Liquefaction ([PDF]({{< baseurl >}}/resources/group_7))
+CO{{< sub "2" >}} Liquefaction ({{% resource_link 82588b85-271d-0c53-e9d7-dd3f2790e9ea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +133,7 @@ CO2 Liquefaction ([PDF]({{< baseurl >}}/resources/group_7))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Oxyfiring ([PDF]({{< baseurl >}}/resources/group_8))
+Oxyfiring ({{% resource_link c57818f1-716d-3b53-ea57-29d241031f8c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +142,7 @@ Oxyfiring ([PDF]({{< baseurl >}}/resources/group_8))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Polygeneration ([PDF]({{< baseurl >}}/resources/group_9))
+Polygeneration ({{% resource_link fb7e9e9f-c030-1017-6bd5-37d709715d86 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +151,7 @@ Polygeneration ([PDF]({{< baseurl >}}/resources/group_9))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Water Gas Shift Reaction ([PDF]({{< baseurl >}}/resources/group_10))
+Water Gas Shift Reaction ({{% resource_link 02ef62c9-ff6a-dc83-71ae-5107f7a112e0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +160,7 @@ Water Gas Shift Reaction ([PDF]({{< baseurl >}}/resources/group_10))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Retrofitting of Existing Power Plants ([PDF]({{< baseurl >}}/resources/group_11))
+Retrofitting of Existing Power Plants ({{% resource_link 0532f0f1-f937-e9a9-8aac-709ab767536d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +169,7 @@ Retrofitting of Existing Power Plants ([PDF]({{< baseurl >}}/resources/group_11)
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Chemical Looping Combustor ([PDF]({{< baseurl >}}/resources/group_12))
+Chemical Looping Combustor ({{% resource_link c1bf2537-a78c-687d-cd41-4b9eccefc586 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +178,7 @@ Chemical Looping Combustor ([PDF]({{< baseurl >}}/resources/group_12))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Amine Stripping Alternatives ([PDF]({{< baseurl >}}/resources/group_13))
+Amine Stripping Alternatives ({{% resource_link f6dcfbee-a5bf-67ae-bc40-e5c3e9a25125 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

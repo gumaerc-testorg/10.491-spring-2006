@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The syllabus section contains course description, prerequisites, homework,
+  final report, and presentation, policy for academic conduct, grading policy, and
+  calendar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0c40d936-0fd1-809d-a162-7e6472a10560
 ---
@@ -14,7 +19,7 @@ Lectures: 4 sessions / week, 1 hour / session
 Introduction
 ------------
 
-Fossil fuels have driven the industrial revolution and will continue to fuel the world economy well into the 21st century. Of all our fossil fuel resources (coal, oil, gas), coal is by far the biggest. In the developed world, it is mostly used for electricity production, employing pulverized coal boilers and steam turbines. In the developing world, similar trends are seen, but coal still has significant usage in the industrial and domestic sectors. One consequence of burning carbon based fuels is the emission of carbon dioxide (CO2) that in turn leads to global warming. While alternatives like solar, wind and biomass have some attractions, they do not, even with large scale expansion, have the potential to address the basic energy, fuel and chemical needs that are currently based on oil and gas. The problem for this class is to address the dilemma: how to burn fossil fuels without the associated environmental impacts?
+Fossil fuels have driven the industrial revolution and will continue to fuel the world economy well into the 21st century. Of all our fossil fuel resources (coal, oil, gas), coal is by far the biggest. In the developed world, it is mostly used for electricity production, employing pulverized coal boilers and steam turbines. In the developing world, similar trends are seen, but coal still has significant usage in the industrial and domestic sectors. One consequence of burning carbon based fuels is the emission of carbon dioxide (CO{{< sub "2" >}}) that in turn leads to global warming. While alternatives like solar, wind and biomass have some attractions, they do not, even with large scale expansion, have the potential to address the basic energy, fuel and chemical needs that are currently based on oil and gas. The problem for this class is to address the dilemma: how to burn fossil fuels without the associated environmental impacts?
 
 Course Description
 ------------------
@@ -55,7 +60,7 @@ During the final semester of senior year you may be involved in job interviews, 
 Grading Policy
 --------------
 
-The course grade is based on 200 points. Description of the activities can be found in [assignments]({{< baseurl >}}/pages/assignments) and [projects]({{< baseurl >}}/pages/projects).
+The course grade is based on 200 points. Description of the activities can be found in {{% resource_link 0644fc46-b4cd-6571-1446-cd50abd06cf5 "assignments" %}} and {{% resource_link 09de868b-e56b-87a8-b829-b94ecac5201d "projects" %}}.
 
 The Design Report grade will be the same for all the group members. **No late reports will be accepted**. The design report grade includes the presentations to class and clients (30 minutes per group).
 
@@ -135,7 +140,7 @@ KEY DATES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction: Global Climate and the CO2 Problem
+Introduction: Global Climate and the CO{{< sub "2" >}} Problem
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -207,7 +212,7 @@ Physical Property Models: Which One is Best?
 7
 {{< tdclose >}}
 {{< tdopen >}}
-How CO2 is Formed: Combustion Basics
+How CO{{< sub "2" >}} is Formed: Combustion Basics
 {{< tdclose >}}
 {{< tdopen >}}
 Progress report due
@@ -219,7 +224,7 @@ Progress report due
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Evaluation of Alternative CO2 Removal Schemes: Comparing Efficiencies
+Evaluation of Alternative CO{{< sub "2" >}} Removal Schemes: Comparing Efficiencies
 {{< tdclose >}}
 {{< tdopen >}}
 
