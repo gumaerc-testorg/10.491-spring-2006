@@ -5,6 +5,7 @@ file: /courses/10-491-integrated-chemical-engineering-ii-spring-2006/c57818f1716
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: group_8.pdf
 uid: c57818f1-716d-3b53-ea57-29d241031f8c
 ---
 Design project topic and memo.
-

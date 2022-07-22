@@ -6,6 +6,7 @@ file: /courses/10-491-integrated-chemical-engineering-ii-spring-2006/79a208e0e25
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: report_details.pdf
 uid: 79a208e0-e255-5e64-435c-86fafb530fdc
 ---
 This resource talks about design report, a procedure for preparing the report, and grading of the design report.
-

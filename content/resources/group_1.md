@@ -5,6 +5,7 @@ file: /courses/10-491-integrated-chemical-engineering-ii-spring-2006/429822215a8
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: group_1.pdf
 uid: 42982221-5a8d-4661-3af3-234ba409f0ec
 ---
 Memorandum on a student project.
-

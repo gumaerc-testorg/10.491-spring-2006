@@ -5,6 +5,7 @@ file: /courses/10-491-integrated-chemical-engineering-ii-spring-2006/78d7999fda4
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: group_3.pdf
 uid: 78d7999f-da4a-c19e-fb1f-c23f8bbee42d
 ---
 Design project topic and memorandum.
-
