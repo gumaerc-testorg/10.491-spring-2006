@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/10-491-integrated-chemical-engineering-ii-spring-2006/369e277e6622c968d86787ecf94db14a_chp_greenhouse.jpg
+file_size: 59832
 file_type: image/jpeg
 image_metadata:
   caption: ''
