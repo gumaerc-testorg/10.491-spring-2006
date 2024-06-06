@@ -2,6 +2,7 @@
 content_type: resource
 description: Design project topic and memo.
 file: /courses/10-491-integrated-chemical-engineering-ii-spring-2006/c57818f1716d3b53ea5729d241031f8c_group_8.pdf
+file_size: 11281
 file_type: application/pdf
 learning_resource_types:
 - Projects
