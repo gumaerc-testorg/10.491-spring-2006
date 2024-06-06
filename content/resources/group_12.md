@@ -2,6 +2,7 @@
 content_type: resource
 description: Design project topic and memorandum.
 file: /courses/10-491-integrated-chemical-engineering-ii-spring-2006/c1bf2537a78c687dcd414b9eccefc586_group_12.pdf
+file_size: 11356
 file_type: application/pdf
 learning_resource_types:
 - Projects

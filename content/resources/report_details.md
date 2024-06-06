@@ -3,6 +3,7 @@ content_type: resource
 description: This resource talks about design report, a procedure for preparing the
   report, and grading of the design report.
 file: /courses/10-491-integrated-chemical-engineering-ii-spring-2006/79a208e0e2555e64435c86fafb530fdc_report_details.pdf
+file_size: 105814
 file_type: application/pdf
 learning_resource_types:
 - Projects
