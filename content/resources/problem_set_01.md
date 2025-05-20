@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource talks about introduction to problem set, and a first order
   model of a power plant.
-file: /ol-ocw-studio-app/courses/10-491-integrated-chemical-engineering-ii-spring-2006/fd11e32d47cb59af243a0be5efd3a25c_problem_set_01.pdf
+file: /courses/10-491-integrated-chemical-engineering-ii-spring-2006/fd11e32d47cb59af243a0be5efd3a25c_problem_set_01.pdf
 file_size: 78422
 file_type: application/pdf
 learning_resource_types:
