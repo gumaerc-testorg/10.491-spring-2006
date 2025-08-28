@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Memorandum on a student project.
-file: /courses/10-491-integrated-chemical-engineering-ii-spring-2006/429822215a8d46613af3234ba409f0ec_group_1.pdf
+file: /ol-ocw-studio-app/courses/10-491-integrated-chemical-engineering-ii-spring-2006/429822215a8d46613af3234ba409f0ec_group_1.pdf
 file_size: 22293
 file_type: application/pdf
 learning_resource_types:
